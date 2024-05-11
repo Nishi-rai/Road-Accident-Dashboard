@@ -16,7 +16,7 @@ Explore interactive visualizations of road accident data, including casualty bre
 📑 **Comprehensive Documentation**: Access detailed documentation on methodology and data sources for transparency.
 
 ## Get Started
-1. 🌐 Visit the [Dashboard]([insert_dashboard_link_here](https://1drv.ms/x/s!AmrjGfTO_MxmghxelFCwqMoQt1rJ?e=gBWEpg)) to start exploring.
+1. 🌐 Visit the [Dashboard](https://1drv.ms/x/s!AmrjGfTO_MxmghxelFCwqMoQt1rJ?e=gBWEpg) to start exploring.
 2. 💾 Download the dataset for further analysis.
 3. 📄 Refer to the documentation for insights into methodology and data sources.
 
